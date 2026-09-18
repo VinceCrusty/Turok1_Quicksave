@@ -1,5 +1,7 @@
 # Turok1 Quicksave
 
+![Turok1 Quicksave](turok_quicksave.jpg)
+
 Standalone Quick Save / Quick Load mod for Turok Remastered.
 
 ## Features
@@ -13,9 +15,9 @@ Standalone Quick Save / Quick Load mod for Turok Remastered.
 
 ## Installation
 
-1. Extract `Turok1_Quicksave_v1.0.zip`.
+1. Extract Turok1_Quicksave_v1.0.zip.
 2. Copy the included Vulkan DLL to the Turok game folder.
-3. Copy the included KPF file to Turok's `mods` folder.
+3. Copy the included KPF file to Turok's mods folder.
 4. Use the D3D11 DLL instead if your setup uses a compatible D3D11 wrapper.
 
 ## Warning
