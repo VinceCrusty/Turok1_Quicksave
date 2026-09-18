@@ -1,6 +1,6 @@
 # Turok1 Quicksave
 
-![Turok1 Quicksave](turok_quicksave.jpg)
+![Turok1 Quicksave](https://raw.githubusercontent.com/VinceCrusty/Turok1_Quicksave/main/turok_quicksave.jpg)
 
 Standalone Quick Save / Quick Load mod for Turok Remastered.
 
